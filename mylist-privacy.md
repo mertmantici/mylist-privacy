@@ -27,7 +27,7 @@ Security
 The security of user information is important to us. We take appropriate security measures to protect your information and take necessary steps to safeguard your data. However, please remember that no method of transmission over the Internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
 
 Children's Privacy
-MyList is designed to provide a suitable experience for children under 13. However, we do not knowingly collect personal information from children under 13. If we discover that a child under 13 has provided us with personal information, we will delete it from our servers immediately. Parents or guardians should contact us if they are aware that their child has provided personal information to MyList. Additionally, parents should supervise their children's use of the application and provide guidance when necessary.
+MyList is not intended for children under 13. We do not knowingly collect personal information from children under 13. If we discover that a child under 13 has provided us with personal information, we will delete it from our servers immediately. Parents or guardians should contact us if they are aware that their child has provided personal information to MyList. Additionally, we encourage parents to supervise their children's use of the application.
 
 Changes to This Policy
 We may update our Privacy Policy from time to time. Users are advised to periodically review this page for any changes. We will notify you of any changes by updating this page. Changes are effective immediately upon posting.
